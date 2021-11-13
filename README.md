@@ -1,4 +1,4 @@
-Live Link [Wheel and Deals](Live Link [Wheel and Deals](https://wheelsanddeals-de2ce.web.app/).
+Live Link [Wheel and Deals](https://wheelsanddeals-de2ce.web.app/).
 
 ## Project Description
 
@@ -9,4 +9,3 @@ Live Link [Wheel and Deals](Live Link [Wheel and Deals](https://wheelsanddeals-d
 - here two type of user
 - admin manage order manage product also set role
 - user can also delete his / her order
-  ).
